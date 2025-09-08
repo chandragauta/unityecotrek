@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/unityecotrek/static/css/main.416809b1.css",
-    "main.js": "/unityecotrek/static/js/main.1309b22f.js",
+    "main.css": "/unityecotrek/static/css/main.1c807935.css",
+    "main.js": "/unityecotrek/static/js/main.3c14d990.js",
     "static/js/453.5e83b325.chunk.js": "/unityecotrek/static/js/453.5e83b325.chunk.js",
     "static/media/mardi-himal-trekking-map.webp": "/unityecotrek/static/media/mardi-himal-trekking-map.14a5e6b2689ef1493893.webp",
     "static/media/logo.svg": "/unityecotrek/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/unityecotrek/index.html",
-    "main.416809b1.css.map": "/unityecotrek/static/css/main.416809b1.css.map",
-    "main.1309b22f.js.map": "/unityecotrek/static/js/main.1309b22f.js.map",
+    "main.1c807935.css.map": "/unityecotrek/static/css/main.1c807935.css.map",
+    "main.3c14d990.js.map": "/unityecotrek/static/js/main.3c14d990.js.map",
     "453.5e83b325.chunk.js.map": "/unityecotrek/static/js/453.5e83b325.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.416809b1.css",
-    "static/js/main.1309b22f.js"
+    "static/css/main.1c807935.css",
+    "static/js/main.3c14d990.js"
   ]
 }
